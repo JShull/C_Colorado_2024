@@ -1,6 +1,10 @@
 # Chevy Colorado 2024
 
-Public repository for various data/3D work on the 2024 Chevy Colorado for the Colorado Reddit community. Most files and scans associated with this repository are coming from a 2024 Chevy Colorado Z71 and scanned with a [Revopoint Miraco Plus 3D Scanner](https://www.revopoint3d.com/pages/all-in-one-3d-scanner-miracoplus) and I'm using the [RevoScan5](https://www.revopoint3d.com/pages/support-download?srsltid=AfmBOoraicuEHaJrJ4TD3ZhJBCnPl7nlPH4-kS0I0GI8fzXNS_invXQI) software to do any sort of point-cloud/mesh cleanup.
+Public repository for various data/3D work on the 2024 Chevy Colorado for the Colorado Reddit community. Most files and scans associated with this repository are coming from a 2024 Chevy Colorado Z71.
+
+![Black on Black Chevy Colorado Covered in Pollen](2024ChevyColoradoBlack_pollen-01.png)
+
+These files were more than likely all scanned with a [Revopoint Miraco Plus 3D Scanner](https://www.revopoint3d.com/pages/all-in-one-3d-scanner-miracoplus) and I'm using the [RevoScan5](https://www.revopoint3d.com/pages/support-download?srsltid=AfmBOoraicuEHaJrJ4TD3ZhJBCnPl7nlPH4-kS0I0GI8fzXNS_invXQI) software to do any sort of point-cloud/mesh cleanup.
 
 I am using the [OEM GM Parts ACDelco website](https://parts.gmparts.com/) for OEM part numbers.
 
