@@ -8,10 +8,12 @@ I am using the [OEM GM Parts ACDelco website](https://parts.gmparts.com/) for OE
 
 ## Requests
 
+Scanned Date will be in italics for an estimated window for me to scan said item - no guarantee that it will happen on this date 😄
+
 | Request Date | Scanned Date| Area | Reddit User |
 |----------|----------|----------|----------|
 |   8-20-2025   |*8-24-2025/8-31-2025*    | Front Bumper          | Key_Cauliflower5748         |
-|          | |         |          |
+|  7-7-2025         |*8-24-2025* | Side Panel Center Console         | Iowa_sparky          |
 |          |  |        |          |
 
 ## Fog Lamp
