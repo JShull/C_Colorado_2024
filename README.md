@@ -16,5 +16,4 @@ The fog lamp assembly was scanned on 7-17-2025 using the Revopoint Miraco Plus 3
   * [ACDelco Website Link for Part 84770637](https://parts.gmparts.com/product/gm-genuine-parts-front-driver-side-fog-lamp-bezel-84770637)
   * [Cleaned up Point cloud ACS](/FogLamp/DriverSideFogLamp_84770637_20250712_170101_pc.asc)
   * [Cleaned up Mesh PLY](/FogLamp/DriverSideFogLamp_84770637_20250712_170101_mesh.ply)
-    * [Mesh PLY Direct Download Link](/FogLamp/DriverSideFogLamp_84770637_20250712_170101_mesh.ply?download=)
   * [Cleaned up Mesh FBX](/FogLamp/DriverSideFogLamp_84770637_20250712_170101_mesh.fbx)
