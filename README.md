@@ -14,11 +14,13 @@ I am using the [OEM GM Parts ACDelco website](https://parts.gmparts.com/) for OE
 
 Scanned Date will be in italics for an estimated window for me to scan said item - no guarantee that it will happen on this date 😄
 
-| Request Date | Scanned Date| Area | Reddit User |
-|----------|----------|----------|----------|
-|   8-20-2025   |*8-24-2025/8-31-2025*    | Front Bumper          | Key_Cauliflower5748         |
-|  7-7-2025         |*8-24-2025* | Side Panel Center Console         | Iowa_sparky          |
-|          |  |        |          |
+| Request Date | Scanned Date| Area | Reddit User | Scan Progress|
+|----------|----------|----------|----------|----------|
+| 12-6-2025 |***| Tray Behind Radio | Chip-Maker9924| NA|
+| 11-20-2025|***| 4 Wheel Drive Knob Area|SMELTN|NA|
+|   8-20-2025   |*8-24-2025/8-31-2025*    | Front Bumper          | Key_Cauliflower5748         | Need to Clean up the Scan - might need to break it up into sections|
+|  7-7-2025         |*8-24-2025* | Side Panel Center Console         | Iowa_sparky          | Need to Clean up the Scan|
+|          |  |        |          ||
 
 ## Fog Lamp
 
